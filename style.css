@@ -1,0 +1,146 @@
+.navbar-section {
+    background-color: #fceae8;
+ 
+    
+}
+
+
+
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: #000000;
+    font-weight: 700;
+    
+}
+
+
+
+.navbar-light .navbar-nav .nav-link {
+    color: #000000;
+    font-weight: 700;
+    
+}
+
+
+
+.carousel-bg {
+    background-color: #fceae8;
+    border-radius: 2%;
+    border: 0px;
+    margin-top: 70px;
+}
+
+.carousel-item,
+.row {
+    padding: 25px 35px;
+
+}
+
+.carousel-bg img {
+    max-width: 400px;
+    padding: 25px;
+
+}
+
+.buy-now {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    padding: 9px 25px;
+
+}
+
+.price {
+    color: #FF136F;
+}
+
+.catagory{
+    margin-top: 60px;
+}
+.cat1,
+.cat2,
+.cat3 {
+
+    padding: 10px 25px;
+}
+
+.cat1 {
+    background-color: #ffa500;
+    border-radius: 2%;
+    color: white;
+}
+
+.cat2 {
+    background-color: #0000ff;
+    border-radius: 2%;
+    color: white;
+}
+
+.cat3 {
+    background-color: #da70d6;
+    border-radius: 2%;
+    color: white;
+}
+
+
+.shoes-section {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.shoes-section h1 {
+    text-align: center;
+}
+
+.shoes-section .card {
+    border: none;
+    box-shadow: 5px 5px 20px 5px #888888;
+}
+
+
+.Bagpack-Section {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.Bagpack-Section h1 {
+    text-align: center;
+
+}
+
+
+
+
+.Bagpack-Section .card {
+    border: none;
+    box-shadow: 5px 5px 20px 5px #888888;
+
+}
+
+
+footer {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+#contact{
+    background-color: #fceae8 ;
+    margin: auto;
+    height: 350px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+.contact button{
+    padding-top: 10px;
+    margin: 30px;
+  
+}
+
+
+.contact{
+    text-align: center;
+}
